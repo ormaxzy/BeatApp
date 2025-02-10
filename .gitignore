@@ -1,0 +1,56 @@
+# IDE-specific files
+/.idea/
+/*.iml
+
+# Gradle files
+.gradle/
+/build/
+/local.properties
+/.gradle
+/captures/
+/outputs/
+
+# Dependency directories
+/.caches/
+/.externalNativeBuild/
+
+# Signing files
+.signing/
+signing.properties
+
+# User-specific files
+*.log
+*.temp
+*.tmp
+*.bak
+*.swp
+*.orig
+.DS_Store
+
+# Generated files
+/*.apk
+/*.ap_
+/*.keystore
+/capture/
+/gen/
+/debug/
+/release/
+/intermediates/
+/instant-run/
+/lint/
+/proto/
+/coverage/
+
+# Kotlin-specific
+/.kotlin
+*.kts.finder_compiled
+*.kotlin_module
+
+# Android-specific
+.idea/caches/build_file_checksums.ser
+.idea/modules.xml
+.idea/libraries/
+.idea/navEditor.xml
+
+# Ignore Hilt's generated files
+/.hilt/
