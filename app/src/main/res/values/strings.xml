@@ -1,3 +1,28 @@
 <resources>
+    <string name="search_placeholder">Поиск</string>
+    <string name="search">Поиск</string>
+
+    <string name="unknown_title">Название неизвестно</string>
+    <string name="unknown_artist">Исполнитель неизвестен</string>
+
+    <string name="artist_label">Артист: %1$s</string>
+    <string name="album_label">Альбом: %1$s</string>
+
+    <string name="info">Информация</string>
+    <string name="no_tracks_or_permission">Нет треков или разрешение не выдано</string>
+    <string name="no_tracks">Нет треков</string>
+
+    <string name="previous">Предыдущий</string>
+    <string name="play_pause">Пауза/Играть</string>
+    <string name="next">Следующий</string>
+
     <string name="app_name">BeatApp</string>
+
+    <string name="downloaded_tracks_title">Локальные треки</string>
+    <string name="api_tracks_title">Deezer Треки</string>
+
+    <string name="downloaded_tracks">Локальные</string>
+    <string name="api_tracks">Deezer</string>
+
+    <string name="app_logo">Логотип приложения</string>
 </resources>
