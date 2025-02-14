@@ -1,4 +1,4 @@
-package com.example.beatapp.ui.theme
+package com.example.beatapp.presentation.ui.components.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

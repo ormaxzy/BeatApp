@@ -1,4 +1,4 @@
-package com.example.beatapp.ui.theme
+package com.example.beatapp.presentation.ui.components.theme
 
 import android.app.Activity
 import android.os.Build
